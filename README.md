@@ -1,4 +1,4 @@
-[![Profile_Image](profile_image.png)](https://www.abhishek-sharma.com.np)
+[![Profile_Image](https://i.ibb.co/gLLskCtb/linkedin-banner.png)](https://www.abhishek-sharma.com.np)
 # 💫 About Me:
 👋 Hi, Myself Abhishek Sharma<br>🔥 I’m interested in coding.<br>🌱 I’m currently learning Java, python and flutter/dart.<br>⚡ Fun fact: I have a passion for capturing the beauty of nature through my lens.<br>👀 Check out my: [Portfolio](https://www.abhishek-sharma.com.np/)
 
