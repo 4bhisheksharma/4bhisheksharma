@@ -1,6 +1,6 @@
-[![Profile_Image](https://s14.gifyu.com/images/bxmxR.md.png)](https://www.abhishek-sharma.com.np)
+[![Profile_Image](https://s14.gifyu.com/images/bxmxR.png)](https://www.abhishek-sharma.com.np)
 # 💫 About Me:
-👋 Hi, Myself Abhishek Sharma<br>🔥 I’m interested in coding.<br>🌱 I’m currently learning Java, python and flutter/dart.<br>⚡ Fun fact: I have a passion for capturing the beauty of nature through my lens.<br>👀 Check out my: [Portfolio](https://www.abhishek-sharma.com.np/)
+👋 Hi, Myself Abhishek Sharma<br>🔥 I’m interested in coding.<br>🌱 I’m currently learning Java, Python, and Flutter/dart.<br>⚡ Fun fact: I have a passion for capturing the beauty of nature through my lens.<br>👀 Check out my: [Portfolio](https://www.abhishek-sharma.com.np/)
 
 
 ## 🌐 Socials:
